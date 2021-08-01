@@ -1,10 +1,10 @@
 Исполнитель "Черепаха" (ч.1)
 #############################
 
-:date: 2020-09-08 09:00
+:date: 2021-07-20 09:00
 :summary: Использование циклов for, вложенных циклов, функций.
 :status: published
-:lecture_link: https://youtu.be/4NvtHHWoWXE
+
 
 
 .. default-role:: code
@@ -427,7 +427,7 @@ Windows можно использовать пункт меню «Python (comman
    turtle.right(90)
    turtle.forward(50)
 
-.. image:: {static}/images/lab2/example.gif
+.. image:: images/lab2/example.gif
 
 Упражнение №2: буква S
 ----------------------
@@ -439,7 +439,7 @@ Windows можно использовать пункт меню «Python (comman
 
 Нарисуйте квадрат. Пример:
 
-.. image:: {static}/images/lab2/rectangle.gif
+.. image:: images/lab2/rectangle.gif
 
 Упражнение №4: окружность
 -------------------------
@@ -447,21 +447,21 @@ Windows можно использовать пункт меню «Python (comman
 Нарисуйте окружность. Воспользуйтесь тем фактом, что правильный многоугольник с большим числом сторон  будет выглядеть
 как окружность. Пример:
 
-.. image:: {static}/images/lab2/circle.gif
+.. image:: images/lab2/circle.gif
 
 Упражнение №5: больше квадратов
 -------------------------------
 
 Нарисуйте 10 вложенных квадратов.
 
-.. image:: {static}/images/lab2/nested_rectangles.gif
+.. image:: images/lab2/nested_rectangles.gif
 
 Упражнение №6: паук
 -------------------
 
 Нарисуйте паука с n лапами. Пример n = 12:
 
-.. image:: {static}/images/lab2/spider.gif
+.. image:: images/lab2/spider.gif
 
 Упражнение №7: спираль
 ----------------------
@@ -470,14 +470,14 @@ Windows можно использовать пункт меню «Python (comman
 
 .. _теорию: https://ru.wikipedia.org/wiki/%D0%90%D1%80%D1%85%D0%B8%D0%BC%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0_%D1%81%D0%BF%D0%B8%D1%80%D0%B0%D0%BB%D1%8C
 
-.. image:: {static}/images/lab2/spiral.gif
+.. image:: images/lab2/spiral.gif
 
 Упражнение №8: квадратная «спираль»
 -----------------------------------
 
 Нарисуйте «квадратную» спираль. Пример:
 
-.. image:: {static}/images/lab2/rect_spiral.gif
+.. image:: images/lab2/rect_spiral.gif
 
 Написание функций
 -----------------
@@ -539,14 +539,14 @@ Windows можно использовать пункт меню «Python (comman
 
 .. _Формулы: https://www.fxyz.ru/%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D1%8B_%D0%BF%D0%BE_%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%B8/%D0%BF%D0%BB%D0%BE%D1%81%D0%BA%D0%B8%D0%B5_%D1%84%D0%B8%D0%B3%D1%83%D1%80%D1%8B/%D0%B2%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B8_%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B8/%D1%80%D0%B0%D0%B4%D0%B8%D1%83%D1%81_%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%BD%D0%BE%D0%B9_%D0%BE%D0%BA%D1%80%D1%83%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8/%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B0/
 
-.. image:: {static}/images/lab2/regular_polygon.gif
+.. image:: images/lab2/regular_polygon.gif
 
 Упражнение №10: «цветок»
 ------------------------
 
 Нарисуйте «цветок» из окружностей. Используйте функцию, рисующую окружность. Пример:
 
-.. image:: {static}/images/lab2/flower.gif
+.. image:: images/lab2/flower.gif
 
 
 Упражнение №11: «бабочка»
@@ -554,14 +554,14 @@ Windows можно использовать пункт меню «Python (comman
 
 Нарисуйте «бабочку» из окружностей. Используйте функцию, рисующую окружность. Пример:
 
-.. image:: {static}/images/lab2/butterfly.gif
+.. image:: images/lab2/butterfly.gif
 
 Упражнение №12: пружина
 -----------------------
 
 Нарисуйте пружину. Используйте функцию, рисующую дугу. Пример:
 
-.. image:: {static}/images/lab2/spring.gif
+.. image:: images/lab2/spring.gif
 
 
 Упражнение №13: смайлик
@@ -569,15 +569,15 @@ Windows можно использовать пункт меню «Python (comman
 
 Нарисуйте смайлик с помощью написанных функций рисования круга и дуги. Пример:
 
-.. image:: {static}/images/lab2/smile.gif
+.. image:: images/lab2/smile.gif
 
 Упражнение №14: звезды
 ----------------------
 
 Нарисуйте две звезды: одну с 5 вершинами, другую — с 11. Используйте функцию, рисующую звезду с n вершинами. Пример:
 
-.. image:: {static}/images/lab2/star5.gif
-.. image:: {static}/images/lab2/star11.gif
+.. image:: images/lab2/star5.gif
+.. image:: images/lab2/star11.gif
 
 
 Красивый код на Python

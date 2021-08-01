@@ -1,10 +1,9 @@
 Картинки на выставку (часть 2)
 ##############################
 
-:date: 2020-09-28 09:00
+:date: 2021-07-28 09:00
 :summary: Рефакторинг.
 :status: published
-:lecture_link: https://youtu.be/wjCEEax2ZBk
 
 .. default-role:: code
 .. contents:: Содержание
@@ -285,7 +284,7 @@
 
 Вот что у нас получилось:
 
-.. image:: ../images/lab5/hare.png
+.. image:: images/lab5/hare.png
     :align: center
 
 Задание недели

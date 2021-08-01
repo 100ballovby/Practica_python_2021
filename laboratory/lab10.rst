@@ -1,7 +1,7 @@
 Проект «Солнечная система»
 ##########################
 
-:date: 2020-11-02
+:date: 2021-08-03
 :summary: Командная работа. Модель движения планет по законам Кеплера. Создание модульной программы.
 :status: published
 
@@ -52,10 +52,10 @@
 * `solar_input.py`_ — модуль, реализующий чтение и запись в конфигурационные файлы
 
 
-.. _`solar_objects.py`: {static}/extra/lab11/solar_objects.m.html
-.. _`solar_model.py`: {static}/extra/lab11/solar_model.m.html
-.. _`solar_vis.py`: {static}/extra/lab11/solar_vis.m.html
-.. _`solar_input.py`: {static}/extra/lab11/solar_input.m.html
+.. _`solar_objects.py`: extra/lab11/solar_objects.m.html
+.. _`solar_model.py`: extra/lab11/solar_model.m.html
+.. _`solar_vis.py`: extra/lab11/solar_vis.m.html
+.. _`solar_input.py`: extra/lab11/solar_input.m.html
 
 Распределение ролей
 -------------------
@@ -145,13 +145,13 @@
 Пример солечной системы
 -----------------------
 
-.. image:: {static}/images/lab10/solar_main.gif
+.. image:: images/lab10/solar_main.gif
    :width: 350 px
 
 Пример двойной звезды
 ---------------------
 
-.. image:: {static}/images/lab10/double_star.gif
+.. image:: images/lab10/double_star.gif
    :width: 350 px
 
 Дополнительное задание

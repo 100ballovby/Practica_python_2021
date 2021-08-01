@@ -1,10 +1,10 @@
 Игра "Поймай шарик" (часть 1)
 #############################
 
-:date: 2020-10-05 09:00
+:date: 2021-08-01 09:00
 :summary: Обработка событий в Pygame.
 :status: published
-:lecture_link: https://youtu.be/7uEB7QXsrFk
+
 
 .. default-role:: code
 .. contents:: Содержание
@@ -138,7 +138,7 @@ Cобытия мыши
 Вначале создадим появляющиеся шарики:
 
 .. code-block:: python
-    :linenos:
+
 
     import pygame
     from pygame.draw import *
