@@ -177,4 +177,4 @@ def new_game(event=''):
 
 new_game()
 
-mainloop()
+root.mainloop()
